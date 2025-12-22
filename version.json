@@ -2,6 +2,10 @@
   "version": "3.1",
   "release_date": "2024-12-22",
   "changes": [
+    "✓ Auto Update System with animations",
+    "✓ Automatic version.json download",
+    "✓ Real-time progress bars",
+    "✓ Backup creation before update",
     "✓ Option 44 - Clone Messages (Group A to B)",
     "✓ Option 47 - Export Members (Hidden + Non-Hidden)",
     "✓ Option 7 - 2FA Password Change",
@@ -9,6 +13,6 @@
     "✓ Cryptolence licensing",
     "✓ 100+ automation features"
   ],
-  "download_url": "https://github.com/msy1717/FULL-TG/releases/download/v3.0/app.py",
+  "download_url": "https://raw.githubusercontent.com/msy1717/FULL-TG/main/app.py",
   "github_url": "https://github.com/msy1717/FULL-TG"
 }

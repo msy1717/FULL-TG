@@ -1,0 +1,14 @@
+{
+  "version": "3.0",
+  "release_date": "2024-12-22",
+  "changes": [
+    "✓ Option 44 - Clone Messages (Group A to B)",
+    "✓ Option 47 - Export Members (Hidden + Non-Hidden)",
+    "✓ Option 7 - 2FA Password Change",
+    "✓ Professional documentation & scripts",
+    "✓ Cryptolence licensing",
+    "✓ 100+ automation features"
+  ],
+  "download_url": "https://github.com/yourusername/FULL-TG/releases/download/v3.0/app.py",
+  "github_url": "https://github.com/yourusername/FULL-TG"
+}

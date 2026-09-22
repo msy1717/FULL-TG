@@ -2,8 +2,8 @@ import os
 import json
 
 # Telegram API Credentials
-API_ID = int(os.getenv("TELEGRAM_API_ID", "27184521"))
-API_HASH = os.getenv("TELEGRAM_API_HASH", "USE_SAME_HASH_FOR_ALL")
+API_ID = int(os.getenv("TELEGRAM_API_ID", "37432474"))
+API_HASH = os.getenv("TELEGRAM_API_HASH", "0cd419550e03c58843f42ba470a27992")
 
 # Session folder
 FOLDER = "./sessions"
